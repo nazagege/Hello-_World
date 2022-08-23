@@ -1,2 +1,4 @@
-# Hello-_World
-My third repository on GitHub 
+# alx-pre-course
+I'm now a ALX Student, this is my repository as a full stack engineer
+
+
